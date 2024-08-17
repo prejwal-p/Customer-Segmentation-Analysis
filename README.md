@@ -25,7 +25,6 @@ The data can be segmented into 4 customer groups based on K-Means clustering.
 | Group 3 | Low | Low| Last Campaign | Meat|
 
 ![scatterpot showing distribution](./images/fig3.png)
-Image showing the distribution of user categories based on income and spending.
 
 ![sankey plot](./images/fig1.png)
 
